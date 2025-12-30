@@ -11,11 +11,8 @@ This project visualizes hourly social media usage trends using data stored in an
 - Automatically highlights and annotates peak usage time
 - Clean visualization using Seaborn and Matplotlib
 
-## 🗂️ Project Structure
-Social-Media-Usage-Visualization/
-├── UserUsageData.xlsx
-├── social_media_usage.py
-└── README.md
+<img width="458" height="103" alt="image" src="https://github.com/user-attachments/assets/8368d473-a184-4296-8574-313e347b5b77" />
+
 
 ## 📄 Dataset Format
 Each Excel sheet should follow this format:
