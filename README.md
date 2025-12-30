@@ -42,6 +42,7 @@ python social_media_usage.py
 - One chart per social media app
 - Peak usage hour highlighted with annotation
 - Clean axis labels and styling
+<img width="933" height="694" alt="image" src="https://github.com/user-attachments/assets/d92550ca-e7c4-4185-811b-1bc7094406a6" />
 
 ## 🎯 Use Cases
 Academic data visualization, social media trend analysis, time-series analysis, portfolio projects
@@ -50,4 +51,4 @@ Academic data visualization, social media trend analysis, time-series analysis, 
 Interactive plots, support for more apps, export charts, demographic analysis
 
 ## 👤 Author
-N D
+Naman Dewangan
